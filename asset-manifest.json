@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2199d5d7.chunk.css",
+    "main.js": "/static/js/main.1c876a38.chunk.js",
+    "main.js.map": "/static/js/main.1c876a38.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.543dcf58.js",
+    "runtime-main.js.map": "/static/js/runtime-main.543dcf58.js.map",
+    "static/js/2.5caf6848.chunk.js": "/static/js/2.5caf6848.chunk.js",
+    "static/js/2.5caf6848.chunk.js.map": "/static/js/2.5caf6848.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.2199d5d7.chunk.css.map": "/static/css/main.2199d5d7.chunk.css.map",
+    "static/js/2.5caf6848.chunk.js.LICENSE.txt": "/static/js/2.5caf6848.chunk.js.LICENSE.txt",
+    "static/media/Clementines.10e5baa5.png": "/static/media/Clementines.10e5baa5.png",
+    "static/media/Dalia.aebfae33.png": "/static/media/Dalia.aebfae33.png",
+    "static/media/Dandelion.f5fd72b9.png": "/static/media/Dandelion.f5fd72b9.png",
+    "static/media/Dogwood.5628d71c.png": "/static/media/Dogwood.5628d71c.png",
+    "static/media/HenandChick.49121d14.png": "/static/media/HenandChick.49121d14.png",
+    "static/media/SweetPeas.f7462175.png": "/static/media/SweetPeas.f7462175.png",
+    "static/media/bowlofCherries.bb1a79d8.png": "/static/media/bowlofCherries.bb1a79d8.png",
+    "static/media/hydrangia.5bf0d8c1.png": "/static/media/hydrangia.5bf0d8c1.png",
+    "static/media/redStar.6daa39bc.png": "/static/media/redStar.6daa39bc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.543dcf58.js",
+    "static/js/2.5caf6848.chunk.js",
+    "static/css/main.2199d5d7.chunk.css",
+    "static/js/main.1c876a38.chunk.js"
+  ]
+}
